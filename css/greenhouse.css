@@ -1,0 +1,30 @@
+body {
+   background-image: url('IMG-1543.JPG');
+   background-repeat: no-repeat;
+   background-attachment:fixed;
+   background-size: cover;
+   background-position: center;
+   text-align:center;
+ }
+
+h1{
+  background-color:green;
+  margin:0%;
+  font-family:cursive;
+  margin:60px;
+  margin-top:0%;
+  text-align: center;
+}
+  body {
+  font-family: cursive;
+  color:white;
+}
+button {
+  font-family: cursive;
+  color:white;
+  margin-bottom:20px;
+  background-color: green;
+  cursor: pointer;
+ 
+ 
+}
