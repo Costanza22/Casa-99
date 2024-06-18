@@ -1,3 +1,8 @@
+**Atualização 2024**
+**Casa 99 está em processo de Demolição pela Justiça**
+
+
+
 **A Casa 99: Uma História de Beleza, Abandono e Memórias - Um Projeto Autoral
 Introdução**
 
