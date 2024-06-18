@@ -13,9 +13,9 @@ A Casa 99, como era carinhosamente conhecida na praia de Itaguaçu, São Francis
 
 **Memórias**
 
-Motivado pela beleza estonteante da Casa 99, embarquei em um projeto pessoal para eterniza-la. Através dos anos, capturei cada detalhe da casa, desde sua arquitetura imponente até seu jardim exuberante. Cada foto é um pedacinho da história da Casa 99.
+Motivada pela beleza estonteante da Casa 99, embarquei em um projeto pessoal para eterniza-la. Através dos anos, capturei cada detalhe da casa, desde sua arquitetura imponente até seu jardim exuberante. Cada foto é um pedacinho da história da Casa 99.
 
-Desvendando a História com HTML e CSS
+**Desvendando a História com HTML e CSS**
 
 Para dar vida a este projeto, utilizei as linguagens HTML e CSS, tecendo uma narrativa visual rica e envolvente. Através da combinação de cores, layouts e elementos interativos, convido você a mergulhar na história da Casa 99 e descobrir seus segredos.
 
