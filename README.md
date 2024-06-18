@@ -7,7 +7,7 @@
 **A Casa 99: Uma História de Beleza, Abandono e Memórias - Um Projeto Autoral
 Introdução**
 
-A Casa 99, como era carinhosamente conhecida na praia de Itaguaçu, era um símbolo de beleza e ostentação. Com seu gramado impecável e palmeiras selecionadas, ela era a casa dos sonhos para muitos. Mas, por trás da fachada perfeita, a história da Casa 99 é marcada por altos e baixos, culminando em um abandono que ainda hoje causa tristeza em quem a conheceu.
+A Casa 99, como era carinhosamente conhecida na praia de Itaguaçu, São Francisco do Sul, Santa Catarina era um símbolo de beleza e ostentação. Com seu gramado impecável e palmeiras selecionadas, ela era a casa dos sonhos para muitos. Mas, por trás da fachada perfeita, a história da Casa 99 é marcada por altos e baixos, culminando em um abandono que ainda hoje causa tristeza em quem a conheceu.
 
 **Realização de um Sonho: Memórias e Paixão**
 
