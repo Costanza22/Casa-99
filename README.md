@@ -1,5 +1,4 @@
-**Atualização 2024**
-**Casa 99 está em processo de Demolição pela Justiça**
+**Atualização 2024: Casa 99 está em processo de Demolição pela Justiça**
 
 
 
