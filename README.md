@@ -1,7 +1,7 @@
 **Atualização 2024: Casa 99 está em processo de Demolição pela Justiça**
 
-![Texto alternativo](![CASA 991](https://github.com/Costanza22/Casa-99/assets/81304267/301c5d2c-e0d7-454d-8a76-91949a7ba50b)
-)
+![Casa 99 em 2010](![CASA 991](https://github.com/Costanza22/Casa-99/assets/81304267/a9edfa37-70f0-4431-80e7-11acb420d88c)) { width: 200 height: 200 }
+
 
 
 **A Casa 99: Uma História de Beleza, Abandono e Memórias - Um Projeto Autoral
