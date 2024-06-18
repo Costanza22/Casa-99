@@ -1,6 +1,6 @@
 **Atualização 2024: Casa 99 está em processo de Demolição pela Justiça**
 
-(![CASA 991](https://github.com/Costanza22/Casa-99/assets/81304267/a9edfa37-70f0-4431-80e7-11acb420d88c))
+![CASA 991](https://github.com/Costanza22/Casa-99/assets/81304267/a9edfa37-70f0-4431-80e7-11acb420d88c)
 
 
 
