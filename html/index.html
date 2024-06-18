@@ -1,3 +1,4 @@
+
 <!DOCTYPE html>
 <html>
 
@@ -106,6 +107,20 @@
   
 </object>
 </video>
+	<script>
+  alert("Atenção! Leia esta mensagem importante antes de continuar.");
+</script>
+	<div id="aviso">
+  <h2>Atenção!</h2>
+  <p>Leia esta mensagem importante antes de continuar.</p>
+  <button onclick="fecharAviso()">Fechar</button>
+</div>
+
+<script>
+  function fecharAviso() {
+    document.getElementById("aviso").style.display = "none";
+  }
+</script>
 
 </body>
 
